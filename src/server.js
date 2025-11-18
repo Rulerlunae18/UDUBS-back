@@ -262,7 +262,7 @@ app.use('/api/tg', tgRoutes);
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: config.frontendOrigin || 'http://localhost:5173',
+    origin: config.frontendOrigin || 'https://udubs-front.onrender.com',
     methods: ['GET', 'POST'],
     credentials: true
   }
