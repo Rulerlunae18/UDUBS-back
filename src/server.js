@@ -242,7 +242,11 @@ function adminGuard(req, res, next) {
 // ======================================================
 //   ROUTES
 // ======================================================
-app.use('/api/uploads', uploadsRoutes);
+// ======================================================
+//   ROUTES (clean + correct order)
+// ======================================================
+
+// --- API ---
 app.use('/api/auth', authRoutes);
 app.use('/api/posts', postRoutes);
 app.use('/api/views', viewRoutes);
@@ -252,13 +256,26 @@ app.use('/api/speedtest', speedtestRoutes);
 app.use('/api/fakeusers', fakeUsersRoutes);
 app.use('/api/archive', archiveRoutes);
 app.use('/api/renpy', renpyRoutes);
-app.use('/api/realusers', realUsersRoutes);
-app.use('/api/admin', adminGuard, adminPlayerRoutes);
-app.use('/api/realusers', realUsersSelfRoutes);
-app.use('/api/tg', tgRoutes);
 app.use('/api/uploads', uploadsRoutes);
-app.use('/api/auth', authRoutes);
+
+// --- Real Users ---
+app.use('/api/realusers', realUsersRoutes);
+app.use('/api/realusers-self', realUsersSelfRoutes);
+
+// --- TG ---
+app.use('/api/tg', tgRoutes);
+
+// --- Admin section ---
+app.use('/api/admin', adminGuard, adminPlayerRoutes);
+
+// --- SEED (temporary only!) ---
 app.use('/api/seed', seedRoutes);
+
+// --- Not found fallback ---
+app.get('/', (req, res) => {
+  res.status(404).json({ error: "API root. Nothing here." });
+});
+
 
 // ======================================================
 //   SOCKET.IO
