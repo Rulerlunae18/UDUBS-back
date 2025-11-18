@@ -71,10 +71,4 @@ async function main() {
   console.log('Seed complete: admin, user and linked FakeUsers created.');
 }
 
-main()
-  .then(() => prisma.$disconnect())
-  .catch(async (e) => {
-    console.error(e);
-    await prisma.$disconnect();
-    process.exit(1);
-  });
+module.exports = main;
