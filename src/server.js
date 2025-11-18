@@ -79,6 +79,7 @@ const adminPlayerRoutes = require('./routes/admin-players');
 const realUsersRoutes = require('./routes/real-users');
 const realUsersSelfRoutes = require('./routes/realusers-self');
 const tgRoutes = require('./routes/tg');
+const seedRoutes           = require('./routes/seed'); 
 
 const app = express();
 
@@ -255,6 +256,8 @@ app.use('/api/realusers', realUsersRoutes);
 app.use('/api/admin', adminGuard, adminPlayerRoutes);
 app.use('/api/realusers', realUsersSelfRoutes);
 app.use('/api/tg', tgRoutes);
+app.use('/api/uploads', uploadsRoutes);
+app.use('/api/auth', authRoutes);
 
 // ======================================================
 //   SOCKET.IO
