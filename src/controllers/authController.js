@@ -1,5 +1,5 @@
 // backend/src/controllers/authController.js
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const prisma = require('../utils/prisma');
 
 /* ============================================================
