@@ -78,7 +78,6 @@ const adminPlayerRoutes = require('./routes/admin-players');
 const realUsersRoutes = require('./routes/real-users');
 const realUsersSelfRoutes = require('./routes/realusers-self');
 const tgRoutes = require('./routes/tg');
-const seedRoutes = require('./routes/seed'); 
 
 const app = express();
 
@@ -268,7 +267,6 @@ app.use('/api/tg', tgRoutes);
 app.use('/api/admin', adminGuard, adminPlayerRoutes);
 
 // --- SEED (temporary only!) ---
-app.use('/api/seed', seedRoutes);
 
 // --- Not found fallback ---
 app.get('/', (req, res) => {
