@@ -17,14 +17,10 @@ const http = require('http');
 const fetch = require("node-fetch");
 const { Server } = require('socket.io');
 const prisma = require('./utils/prisma');
-const allowedOrigins = [
-  process.env.FRONTEND_ORIGIN,
-  process.env.BACKEND_URL,
-  "https://udubs-front.onrender.com",
-  "https://udubs-back.onrender.com",
-].filter(Boolean);
+const allowedOrigins = process.env.FRONTEND_ORIGIN
+  ? process.env.FRONTEND_ORIGIN.split(",")
+  : ["https://udubs-front.onrender.com"];
 console.log("Allowed origins:", allowedOrigins);
-
 
 const config = require('./config/env');
 const { ensureSessionFingerprint } = require('./middleware/fingerprint');
