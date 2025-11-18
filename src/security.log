@@ -1,0 +1,2 @@
+[2025-11-11T23:09:33.843Z] ADMIN_GUARD_BLOCK {"ip":"::1","url":"/api/profiles/2","user":{"id":2,"role":"USER"},"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+[2025-11-11T23:09:36.491Z] ADMIN_GUARD_BLOCK {"ip":"::1","url":"/api/profiles/2","user":{"id":2,"role":"USER"},"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}

@@ -1,0 +1,190 @@
+[2025-11-12T23:30:54.763Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-12T23:31:04.345Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T02:02:29.474Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T02:02:54.989Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T16:46:29.850Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T16:46:49.518Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T16:47:49.502Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T16:47:49.539Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-14T16:48:49.244Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T17:34:02.507Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-14T17:34:02.522Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-14T18:40:42.257Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:03:43.959Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:03:57.234Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:03:57.360Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:03:57.363Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T02:04:02.013Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:04:07.383Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:05:59.317Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:06:05.176Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:07:06.031Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:08:06.049Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:08:21.060Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:09:22.055Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:10:22.025Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:11:22.034Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:08.586Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:08.693Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:25.665Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:26.263Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:26.452Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:30.555Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:12:32.121Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:13:14.589Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:13:25.192Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:18:18.730Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:34:05.040Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:35:05.025Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:36:05.020Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:36:05.022Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T02:38:33.448Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:39:23.044Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:41:38.310Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:42:03.966Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:51:00.080Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:52:00.052Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:52:53.256Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:52:53.259Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T02:53:21.030Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:55:00.015Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:56:00.066Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:57:00.150Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:58:00.060Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:59:00.045Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T02:59:00.047Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T03:00:00.038Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:01:00.056Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:02:00.005Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:03:00.040Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:04:00.027Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:05:00.125Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:06:00.100Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:06:23.192Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:06:23.195Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T03:07:21.011Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:08:21.003Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:10:00.030Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:11:00.040Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:12:00.027Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:13:00.160Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:14:00.023Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:14:49.635Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:14:56.095Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:19:36.060Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:20:36.052Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:21:36.014Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:21:36.017Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T03:22:36.022Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:24:00.046Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:25:00.060Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:26:00.028Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:27:00.036Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:28:00.065Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:29:00.092Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:30:00.019Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:31:00.164Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:31:00.166Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T03:32:00.069Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:32:36.705Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:33:36.007Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T03:35:00.006Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:21:47.059Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:21:47.064Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T08:23:00.154Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:24:00.082Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:25:00.043Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:26:00.074Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:27:00.027Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:30:12.208Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:31:00.100Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:32:00.023Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:32:00.029Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T08:33:00.032Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:34:00.121Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:35:00.082Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:36:00.083Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:36:00.086Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T08:37:01.622Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T08:37:29.473Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:00:00.131Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:01:00.120Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:02:00.096Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:03:00.060Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:03:05.929Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:04:06.005Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:04:06.007Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T09:06:00.055Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:07:00.092Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:08:00.092Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:09:00.110Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:10:00.054Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:10:20.390Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:11:06.021Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:12:45.038Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:13:06.022Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:14:06.029Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:14:06.033Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T09:16:00.038Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:17:00.031Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:18:00.029Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:19:00.068Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:20:00.051Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:21:00.061Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:22:00.033Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:23:00.075Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:24:00.043Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:25:00.069Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:25:00.077Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T09:26:00.021Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:27:00.029Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:28:00.019Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:28:29.346Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:28:49.287Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:37:00.253Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:38:00.256Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:39:00.021Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:40:00.124Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:41:00.064Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:42:00.053Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:42:00.055Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T09:43:00.083Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:44:00.025Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:45:00.031Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:52:11.991Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:52:12.018Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T09:53:02.448Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:53:07.842Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:57:42.004Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:58:42.010Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:59:42.014Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T09:59:42.016Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T10:00:42.037Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:01:42.014Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:03:00.115Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:04:00.028Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:05:00.055Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:06:00.032Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:06:43.984Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:06:47.412Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:06:47.414Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T10:08:07.031Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:09:53.052Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:10:53.012Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:11:53.014Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:12:53.021Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:12:53.023Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T10:13:52.999Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:14:52.999Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:16:00.024Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:17:00.019Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:18:00.081Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:19:00.014Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:27:14.119Z] ⚠️ Unauthorized admin attempt | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:27:14.239Z] 🚷 IP banned for 10 min | IP=::1 | UA=n/a | URL=
+[2025-11-18T10:28:00.044Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:29:00.103Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:30:00.057Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:31:00.052Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:32:00.069Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
+[2025-11-18T10:32:13.018Z] 🚫 Banned IP tried again: ::1 | IP=::1 | UA=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | URL=/api/admin/profiles
