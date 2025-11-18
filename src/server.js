@@ -258,6 +258,7 @@ app.use('/api/realusers', realUsersSelfRoutes);
 app.use('/api/tg', tgRoutes);
 app.use('/api/uploads', uploadsRoutes);
 app.use('/api/auth', authRoutes);
+app.use('/api/seed', seedRoutes);
 
 // ======================================================
 //   SOCKET.IO
