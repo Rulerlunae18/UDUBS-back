@@ -81,6 +81,8 @@ const tgRoutes = require('./routes/tg');
 
 const app = express();
 
+app.set('trust proxy', 1);
+
 // ======================================================
 //   GLOBAL SECURITY LAYER
 // ======================================================
@@ -123,8 +125,9 @@ app.use(cookieSession({
   name: 'sess',
   keys: [config.sessionSecret || crypto.randomBytes(32).toString('hex')],
   httpOnly: true,
-  sameSite: 'lax',
-  secure: !!config.isProduction,
+  // ⚠️ самое важное — разные настройки для dev и prod
+  secure: !!config.isProduction,                       // на Render = true
+  sameSite: config.isProduction ? 'none' : 'lax',      // для разных доменов нужен 'none'
   maxAge: 1000 * 60 * 60 * 6
 }));
 
