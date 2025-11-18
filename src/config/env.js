@@ -1,7 +1,7 @@
 require('dotenv').config();
 
-let frontend = process.env.FRONTEND_ORIGIN || 'http://localhost:5173';
-let backend  = process.env.BACKEND_URL      || 'http://localhost:3000';
+let frontend = process.env.FRONTEND_ORIGIN || 'https://udubs-front.onrender.com';
+let backend  = process.env.BACKEND_URL      || 'https://udubs-back.onrender.com';
 
 // если нужно — убираем завершающий / и из фронта и из бэка
 frontend = frontend.replace(/\/$/, "");
