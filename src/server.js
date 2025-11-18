@@ -19,7 +19,7 @@ const { Server } = require('socket.io');
 const prisma = require('./utils/prisma');
 const allowedOrigins = process.env.FRONTEND_ORIGIN
   ? process.env.FRONTEND_ORIGIN.split(",")
-  : ["http://localhost:5173"];
+  : ["https://udubs-front.onrender.com"];
 console.log("Allowed origins:", allowedOrigins);
 
 
