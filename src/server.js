@@ -79,7 +79,7 @@ const adminPlayerRoutes = require('./routes/admin-players');
 const realUsersRoutes = require('./routes/real-users');
 const realUsersSelfRoutes = require('./routes/realusers-self');
 const tgRoutes = require('./routes/tg');
-const seedRoutes           = require('./routes/seed'); 
+const seedRoutes = require('./routes/seed'); 
 
 const app = express();
 
