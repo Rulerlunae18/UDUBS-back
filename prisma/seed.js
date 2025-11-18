@@ -7,8 +7,8 @@ async function main() {
   const adminEmail = 'admin@center.local';
   const userEmail = 'user@center.local';
 
-  const adminPass = await bcrypt.hash('admin123', 10);
-  const userPass = await bcrypt.hash('user123', 10);
+  const adminPass = await bcrypt.hash('veslo22lapti!', 10);
+  const userPass = await bcrypt.hash('RulerLovesYou', 10);
 
   // === 1) Создаём / обновляем ADMIN ===
   const admin = await prisma.user.upsert({
