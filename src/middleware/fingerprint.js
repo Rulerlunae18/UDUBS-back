@@ -46,7 +46,7 @@ function ensureSessionFingerprint(req, res, next) {
       req.connection?.remoteAddress ||
       'unknown';
 
-    const nowHash = hashString(`${ua}|${ip}`);
+    const nowHash = hashString(ua);
 
     // 2️⃣ если ещё нет контрольного хэша — создаём
     if (!req.session._uaHash) {
