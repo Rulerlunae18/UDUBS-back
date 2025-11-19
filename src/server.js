@@ -70,12 +70,11 @@ app.use(
     keys: [config.sessionSecret],
     httpOnly: true,
     secure: true,
-    sameSite: "none", // ВАЖНО
-    domain: ".udubs-back.onrender.com", // ВАЖНО
-    path: "/", // ВАЖНО!
+    sameSite: "none",
     maxAge: 1000 * 60 * 60 * 6
   })
 );
+
 
 
 // отпечаток сессии (работает уже поверх готовой session)
