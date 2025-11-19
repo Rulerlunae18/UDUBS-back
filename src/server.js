@@ -69,13 +69,12 @@ app.use(
     name: "sess",
     keys: [config.sessionSecret],
     httpOnly: true,
-    secure: true,
-    sameSite: "none",
+    secure: true,        // обязательный
+    sameSite: "none",    // обязательный
+    path: "/",           // желательно
     maxAge: 1000 * 60 * 60 * 6
   })
 );
-
-
 
 // отпечаток сессии (работает уже поверх готовой session)
 if (typeof ensureSessionFingerprint === 'function') {
