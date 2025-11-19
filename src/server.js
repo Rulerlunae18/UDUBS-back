@@ -69,13 +69,12 @@ app.use(
     name: 'sess',
     keys: [config.sessionSecret],
     httpOnly: true,
-    secure: true,    
-    domain: '.onrender.com', // 🔥 обязательно TRUE — Render всегда HTTPS
-    sameSite: 'none',   // 🔥 обязательно NONE — иначе кука не уходит на фронт
-    maxAge: 1000 * 60 * 60 * 6
+    secure: true,
+    sameSite: 'none',
+    domain: '.onrender.com',
+    maxAge: 1000 * 60 * 60 * 6,
   })
 );
-
 
 // отпечаток сессии (работает уже поверх готовой session)
 if (typeof ensureSessionFingerprint === 'function') {
