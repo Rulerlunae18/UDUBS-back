@@ -21,9 +21,12 @@ const prisma = require('./utils/prisma');
 const config = require('./config/env');
 const { ensureSessionFingerprint } = require('./middleware/fingerprint');
 
-const allowedOrigins = process.env.FRONTEND_ORIGIN
-  ? process.env.FRONTEND_ORIGIN.split(',')
-  : [];
+const allowedOrigins = [
+  "https://udubs-front.onrender.com",
+  "https://udubs-front.onrender.com/",
+  "http://localhost:5173",
+  null
+];
 
 console.log('Allowed origins:', allowedOrigins);
 
@@ -48,11 +51,10 @@ app.use(
   cors({
     origin(origin, cb) {
       // origin может быть undefined (Postman, прямой curl)
-      if (!origin || allowedOrigins.includes(origin)) {
-        cb(null, true);
-      } else {
-        cb(new Error('CORS blocked: ' + origin));
+      if (!origin || allowedOrigins.some(o => o === origin)) {
+        return cb(null, true);
       }
+      return cb(new Error("CORS blocked: " + origin));
     },
     credentials: true,
   }),
