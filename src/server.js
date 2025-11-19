@@ -23,7 +23,7 @@ const { ensureSessionFingerprint } = require('./middleware/fingerprint');
 
 const allowedOrigins = process.env.FRONTEND_ORIGIN
   ? process.env.FRONTEND_ORIGIN.split(',')
-  : ['https://udubs-front.onrender.com'];
+  : [];
 
 console.log('Allowed origins:', allowedOrigins);
 
