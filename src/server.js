@@ -65,14 +65,14 @@ app.use(
 app.use(
   cookieSession({
     name: 'sess',
-    // в проде лучше использовать ТОЛЬКО config.sessionSecret
-    keys: [config.sessionSecret || crypto.randomBytes(32).toString('hex')],
+    keys: [config.sessionSecret],
     httpOnly: true,
-    secure: !!config.isProduction,                       // Render = true
-    sameSite: config.isProduction ? 'none' : 'lax',      // для разных доменов нужен 'none'
-    maxAge: 1000 * 60 * 60 * 6,                          // 6 часов
-  }),
+    secure: true,       // 🔥 обязательно TRUE — Render всегда HTTPS
+    sameSite: 'none',   // 🔥 обязательно NONE — иначе кука не уходит на фронт
+    maxAge: 1000 * 60 * 60 * 6
+  })
 );
+
 
 // отпечаток сессии (работает уже поверх готовой session)
 if (typeof ensureSessionFingerprint === 'function') {
