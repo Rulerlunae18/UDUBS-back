@@ -200,16 +200,6 @@ app.use(async (req, res, next) => {
     return res.status(403).json({ error: 'VPN/Proxy detected' });
   }
 
-  // prevent IP swapping in session hijack
-  if (req.session?.user) {
-    if (!req.session._ip) req.session._ip = ip;
-    else if (req.session._ip !== ip) {
-      logSecurity('🚨 IP mismatch — possible stolen session', req);
-      req.session = null;
-      return res.status(403).json({ error: 'Session invalidated.' });
-    }
-  }
-
   next();
 });
 
