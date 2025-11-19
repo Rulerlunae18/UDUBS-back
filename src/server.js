@@ -306,6 +306,12 @@ app.use('/api/tg', tgRoutes);
 // --- Admin section ---
 app.use('/api/admin', adminGuard, adminPlayerRoutes);
 
+app.get('/ping', (req, res) => {
+  const buffer = Buffer.alloc(128);
+  res.setHeader('Content-Type', 'application/octet-stream');
+  res.send(buffer);
+});
+
 // --- Not found fallback ---
 app.get('/', (req, res) => {
   res.status(404).json({ error: 'API root. Nothing here.' });
