@@ -68,7 +68,6 @@ app.use(
     // в проде лучше использовать ТОЛЬКО config.sessionSecret
     keys: [config.sessionSecret || crypto.randomBytes(32).toString('hex')],
     httpOnly: true,
-    domain: '.onrender.com',
     secure: !!config.isProduction,                       // Render = true
     sameSite: config.isProduction ? 'none' : 'lax',      // для разных доменов нужен 'none'
     maxAge: 1000 * 60 * 60 * 6,                          // 6 часов
