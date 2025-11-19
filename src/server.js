@@ -66,15 +66,17 @@ app.use(
 
 app.use(
   cookieSession({
-    name: 'sess',
+    name: "sess",
     keys: [config.sessionSecret],
     httpOnly: true,
     secure: true,
-    sameSite: 'none',
-    domain: '.udubs-back.onrender.com',
-    maxAge: 1000 * 60 * 60 * 6,
+    sameSite: "none", // ВАЖНО
+    domain: ".udubs-back.onrender.com", // ВАЖНО
+    path: "/", // ВАЖНО!
+    maxAge: 1000 * 60 * 60 * 6
   })
 );
+
 
 // отпечаток сессии (работает уже поверх готовой session)
 if (typeof ensureSessionFingerprint === 'function') {
